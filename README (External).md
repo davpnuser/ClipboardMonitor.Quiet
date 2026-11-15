@@ -1,2 +1,5 @@
-Notification based library for Windows and Linux clipboard monitoring. This monitors the system clipboard for new items being added on a background subscription to fire an callback whenever data is added, optionally (default) providing a reference to the data type and data itself or source. See https://github.com/zerihal/ClipboardMonitor for details on methods and usage.
+# ClipboardMonitor.Quiet
 
+`ClipboardMonitor.Quiet` is a fork of the library `ClipboardMonitor.Core` without the built-in *"Debugging"* console writes that for some reason werent removed in the release build.
+
+And since the repo seems dead, i've decided to just **fork it** and make the simple fix myself.
