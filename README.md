@@ -4,6 +4,6 @@
 
 And since the repo seems dead, i've decided to just **fork it** and make the simple fix myself.
 
-No NuGet release yet, working on it...
+<!-- No NuGet release yet, working on it... -->
 
-<!-- You can find the NuGet package [here](https://www.nuget.org/packages/ClipboardMonitor.Quiet) -->
+You can find the NuGet package [here](https://www.nuget.org/packages/ClipboardMonitor.Quiet)
